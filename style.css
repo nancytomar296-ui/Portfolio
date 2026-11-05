@@ -1139,8 +1139,10 @@ footer small {
         font-size: 19px;
     }
 
-    .project-description {
-        font-size: 11px;
+.project-description {
+    color: #e2e8f0;
+    font-size: 12px;
+
     }
 
 
