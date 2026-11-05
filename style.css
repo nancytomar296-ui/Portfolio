@@ -30,7 +30,7 @@ body {
     --purple-light: #a78bfa;
     --white: #f8fafc;
     --text: #c4cad7;
-    --muted: #7f8798;
+    --muted: #cbd5e1;
     --border: rgba(255, 255, 255, 0.09);
 }
 
@@ -305,9 +305,9 @@ footer span {
     margin-top: 18px;
     padding: 8px 12px;
 
-    color: #aeb7c7;
+    color: #ffffff;
 
-    background: rgba(255, 255, 255, 0.04);
+    background: rgba(255, 255, 255, 0.08);
 
     border-radius: 20px;
 
